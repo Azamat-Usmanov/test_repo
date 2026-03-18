@@ -7,3 +7,5 @@ def test(test):
 test(52)
 
 print("New line")
+
+a = 5
