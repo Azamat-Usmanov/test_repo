@@ -9,3 +9,5 @@ test(52)
 print("New line")
 
 a = 5
+
+b =6
